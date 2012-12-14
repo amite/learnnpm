@@ -1,0 +1,12 @@
+{
+  "name": "learnnpm",
+  "version": "0.0.0",
+  "description": "lets learn npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": "",
+  "author": "amit",
+  "license": "BSD"
+}
